@@ -14,6 +14,6 @@ server:
   port: 8081
 
 env:
-    dev
+    dev1
 lable:
   release
