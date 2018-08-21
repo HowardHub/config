@@ -12,5 +12,5 @@ server:
 env:
     test1
 girl:
-  age: 20
+  age: 19
   name: 赵默笙
