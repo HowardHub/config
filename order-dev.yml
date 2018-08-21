@@ -15,5 +15,5 @@ server:
 
 env:
     dev222
-lable:
+label:
   release
